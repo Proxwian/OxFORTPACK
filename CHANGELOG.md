@@ -1,3 +1,29 @@
+# 0.8.0
+* Добавлен мод Alcocraft
+* Добавлен мод AmbientEnvironment
+* Добавлен мод Amplified Nether
+* Добавлен мод BetterF3
+* Добавлен мод CleanCut
+* Добавлен мод Connectivity
+* Добавлен мод Ding
+* Добавлен мод EquipmentCompare
+* Добавлен мод FallingLeaves
+* Добавлен мод Fastload Reforged
+* Добавлен мод IceBerg
+* Добавлен мод ItemBorders
+* Добавлен мод NotEnoughAnimations
+* Добавлен мод NotEnoughCrashes
+* Добавлен мод PickUpNotifier
+* Добавлен мод PlayerCompanions
+* Добавлен мод Public Gui Announcement
+* Добавлен мод Radium
+* Добавлен мод SoundPhysics
+* Добавлен мод TrashSlot
+* Добавлен мод VoiceChat
+* Удалён мод JER Integration
+* Добавлено отображение версии сервера в главном меню
+* Обновлены моды до последних версий
+
 # 0.7.0
 * Обновлен Forge до версии 40.1.73
 * Добавлен мод BetterFpsDist
