@@ -1,3 +1,24 @@
+# 0.8.2
+* Добавлен мод CustomSkinLoader
+* Добавлен мод DoubleSlabs
+* Добавлен мод Effective
+* Добавлен мод Elevators
+* Добавлен мод FriendsAndFoes
+* Добавлен мод LittleContraptions
+* Добавлен мод LoginProtection
+* Добавлен мод NoVillagersDeathMessages
+* Добавлен мод The Bumblezone
+* Добавлен мод TrashCans
+* Добавлен мод WeaponMaster
+* Удалён мод DarkModeEverywhere
+* Удалён мод GameStages
+* Удалён мод InControl
+* Удалён мод KleeSlabs
+* Удалён мод Re:Skin
+* Удалён мод Runelic
+* Убраны лишние надписи в меню
+* Обновлены моды до последних версий
+
 # 0.8.1
 * Исправлены настройки управления по умолчанию
 * Удалён мод DefaultConfigs
@@ -27,6 +48,7 @@
 * Удалён мод JER Integration
 * Добавлено отображение версии сервера в главном меню
 * Обновлены моды до последних версий
+
 
 # 0.7.0
 * Обновлен Forge до версии 40.1.73
