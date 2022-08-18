@@ -61,7 +61,6 @@
 *   [Dark Utilities (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
 *   [Decorative Blocks (by stohun)](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 *   [Deep Resonance (by McJty)](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)
-*   [Default Options (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/default-options)
 *   [DEUF - Duplicate Entity UUID Fix (by CAS\_ual\_TY)](https://www.curseforge.com/minecraft/mc-mods/deuf-duplicate-entity-uuid-fix)
 *   [Diagonal Fences (by Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
 *   [Ding (by ohaiiChun)](https://www.curseforge.com/minecraft/mc-mods/ding)
