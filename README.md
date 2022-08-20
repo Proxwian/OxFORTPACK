@@ -1,6 +1,6 @@
 # Oxfort Pack
 
-### Latest version: [0.8.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
+### Latest version: [0.9.0](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
 ### Minecraft: 1.18.2
 ### Forge: 40.1.73
 
@@ -10,7 +10,7 @@
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 258
+* Mods Count: 256
 
 * Shaders: Yes
 
@@ -18,4 +18,4 @@
 
 * Server: Available from menu
 
-### Download: [CurseForge 0.8.1](https://www.curseforge.com/minecraft/modpacks/oxfortpack/files/3940504) | [OneDrive 0.8.3](https://1drv.ms/u/s!Al265ZvwNJDtlL92R56yMIQEAG9WnA?e=jLS9p1)
+### Download: [CurseForge 0.8.1](https://www.curseforge.com/minecraft/modpacks/oxfortpack/files/3940504) | [OneDrive 0.9.0](https://goo.by/OxfortPack_Zip)
