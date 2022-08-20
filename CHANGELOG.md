@@ -1,3 +1,6 @@
+# 0.8.3
+* Удалён мод Effective
+
 # 0.8.2
 * Добавлен мод CustomSkinLoader
 * Добавлен мод DoubleSlabs
