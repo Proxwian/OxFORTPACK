@@ -1,3 +1,10 @@
+# 0.9.1 Release Candidate
+* Добавлен мод Krypton
+* Добавлен мод-дополнение Corn Delight
+* Удалён мод Hexerei
+* Удалён мод RandomVillageNames
+* Исправлено двойное отображение меток обелисков на миникарте
+
 # 0.9.0 PreRelease
 * Добавлен мод Plasmo Voice
 * Удалён мод Pig Cipher
