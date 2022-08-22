@@ -18,4 +18,4 @@
 
 * Server: Available from menu
 
-### Download: [CurseForge 0.8.1](https://www.curseforge.com/minecraft/modpacks/oxfortpack/files/3940504) | [OneDrive 0.9.1](https://goo.by/OxfortPack_Zip)
+### Download: [CurseForge 0.9.1](https://www.curseforge.com/minecraft/modpacks/oxfortpack/files/3946069) | [OneDrive 0.9.1](https://goo.by/OxfortPack_Zip)
