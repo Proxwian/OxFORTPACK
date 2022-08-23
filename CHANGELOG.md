@@ -1,3 +1,11 @@
+# 0.9.2 Release Candidate
+* Добавлен мод Configured
+* Удален мод Iron Jetpacks
+* Удалены старые неиспользуемые конфиги
+* Исправлен дюп опыта с модом CarryOn
+* Обновлены конфиги для CustomSkinLoader
+* Обновлены моды до последних версий
+
 # 0.9.1 Release Candidate
 * Добавлен мод Krypton
 * Добавлен мод-дополнение Corn Delight
