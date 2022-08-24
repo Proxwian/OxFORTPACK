@@ -1,3 +1,6 @@
+# 0.9.3 Release Candidate
+* Обновлён мод MineColonies
+
 # 0.9.2 Release Candidate
 * Добавлен мод Configured
 * Удален мод Iron Jetpacks
