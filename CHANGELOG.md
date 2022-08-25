@@ -1,3 +1,20 @@
+# 1.0.0
+* Релиз!
+* Добавлен мод CornDelight
+* Добавлен мод ImmersiveEngineering
+* Добавлен мод ToughAsNails
+* Добавлен мод MoreOverlaysUpdated
+* Добавлен мод Controlling
+* Добавлен мод EccentricTome
+* Удалён мод DynamicElectricity
+* Удалён мод Electrodynamics
+* Удалён мод NuclearScience
+* Удалён мод Survive
+* Удалён мод Etched
+* Удалён мод UnionLib
+* Удалён мод DoggyTalents
+* Обновлены моды до последних версий
+
 # 0.9.3 Release Candidate
 * Обновлён мод MineColonies
 
