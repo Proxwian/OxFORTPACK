@@ -33,7 +33,7 @@ But benefit to this page would be appreciated :)*
 
 * Server: Available from menu
 
-### Download: [CurseForge 0.9.1](https://www.curseforge.com/minecraft/modpacks/oxfortpack/files/3946069) | [OneDrive 0.9.2](https://goo.by/oxfortpack_zip)
+### [Download 0xLauncher to start]https://goo.by/oxlauncher) (also available for download in CurseForge client)
 
 ## 0x128 (Coming soon...)
 
