@@ -33,7 +33,7 @@ But benefit to this page would be appreciated :)*
 
 * Server: Available from menu
 
-### [Download 0xLauncher to start](https://goo.by/oxlauncher) (also available for download in [CurseForge client](https://download.curseforge.com/))
+### Download [0xLauncher](https://goo.by/oxlauncher) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
 
 ## 0x128 (Coming soon...)
 
