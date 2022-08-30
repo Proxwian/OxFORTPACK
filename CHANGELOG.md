@@ -1,3 +1,39 @@
+# 1.2.0
+* Добавлен мод Agricraft
+* Добавлен мод BetterRespawn
+* Добавлен мод Corail Tombstones
+* Добавлен мод Cursery
+* Добавлен мод Delightful
+* Добавлен мод Immersive Weathering
+* Удалён мод Beyond Earth
+* Удалён мод Beyond Earth: Giselle Addon
+* Удалён мод Crossroads
+* Удалён мод CustomSkinLoader
+* Удалён мод Futurepack
+* Удалён мод NoFog
+* Удалён мод ShetiphianCore
+* Обновлены конфиги Quark
+* Обновлены конфиги Rubidium Extra
+* Обновлены моды до последний версий
+
+# 1.1.0
+* Добавлен мод AdvancedChimneys
+* Добавлен мод CreateCrasftsAndAdditions
+* Добавлен мод CreeperOverhaul
+* Добавлен мод DynamicLights
+* Добавлен мод PollutionOfTheRealms
+* Добавлен мод RubidiumExtra
+* Добавлен мод Survive (возвращение на старое ядро)
+* Удалён мод Areas
+* Удалён мод CarryOn
+* Удалён мод LoginProtect
+* Удалён мод NoAutoJump
+* Удалён мод NoVillagersDeathMessages
+* Удалён мод ToughAsNails
+* Обновлены настройки по умолчанию для JourneyMap
+* Обновлены настройки управления по умолчанию
+* Обновлены моды до последних версий
+
 # 1.0.0
 * Релиз!
 * Добавлен мод CornDelight
