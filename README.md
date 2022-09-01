@@ -17,7 +17,7 @@ But benefit to this page would be appreciated :)*
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
-### Latest version: [1.1.0](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
+### Latest version: [1.2.1](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
 
 * Difficulty: High
 
