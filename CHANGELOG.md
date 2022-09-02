@@ -1,3 +1,6 @@
+# 1.2.1
+* Удалён мод CreatePlus
+
 # 1.2.0
 * Добавлен мод Agricraft
 * Добавлен мод BetterRespawn
