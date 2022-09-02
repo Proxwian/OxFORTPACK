@@ -54,7 +54,6 @@
 *   [Cosmetic Armor Reworked (by LainMI)](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 *   [CraftTweaker (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 *   [Create (by simibubi)](https://www.curseforge.com/minecraft/mc-mods/create)
-*   [Create Plus (by Robocraft999)](https://www.curseforge.com/minecraft/mc-mods/create-plus)
 *   [Create Crafts & Additions (by MRHminer)](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 *   [CreativeCore (by CreativeMD)](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 *   [Creeper Overhaul (by joosh\_7889)](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
