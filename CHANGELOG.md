@@ -1,3 +1,15 @@
+# 1.2.3
+* Добавлен мод All The Ores
+* Добавлен мод Dimensional Worldborder
+* Добавлен мод EntityCollisionFix
+* Удалён мод PrettyPipes
+* Удалён мод PrettyPipes: Fluids
+* Исправлено отображение подсказок в меню
+
+# 1.2.2
+* Обновлены конфиги ProjectMMO
+* Добавлены советы и подсказки в меню паузы и загрузочные экраны
+
 # 1.2.1
 * Удалён мод CreatePlus
 
