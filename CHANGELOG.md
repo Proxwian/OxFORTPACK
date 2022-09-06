@@ -1,3 +1,37 @@
+# 1.3.0
+* Добавлен мод Additional Additions
+* Добавлен мод Companion
+* Добавлен мод Engineers Decor
+* Добавлен мод InventoryGolem
+* Добавлен мод KubeJs
+* Добавлен мод Mekanism Matter
+* Добавлен мод Neapolitah
+* Добавлен мод Nether Portal Spread
+* Добавлен мод NoHostilesAroundCampfire
+* Добавлен мод PamHc2Trees
+* Добавлен мод Smarter Farmers
+* Добавлен мод Superior Shields
+* Добавлен мод TetraPak
+* Добавлен мод Under Armour
+* Добавлен аддон Ars Instrumentum
+* Добавлен аддон Ars Scalaes
+* Добавлен аддон Colony4ComputerCraft
+* Добавлен аддон Create Misc
+* Добавлен аддон Create Cafe
+* Добавлен аддон Create Confectionary
+* Добавлен аддон Create Deco
+* Добавлен аддон Slice And Dice
+* Добавлен аддон Create Stuff And Additions
+* Добавлен аддон Create Alloyed
+* Добавлен аддон Create Chromatic Return
+* Добавлен аддон Condensed Milk
+* Добавлен аддон Create Plus
+* Добавлен аддон JER Integration
+* Добавлен аддон Potato Canon Plus
+* Добавлен аддон Compressed Creativity
+* Удалён мод FriendlyFire
+* Обновлены моды до последних версий
+
 # 1.2.3
 * Добавлен мод All The Ores
 * Добавлен мод Dimensional Worldborder
