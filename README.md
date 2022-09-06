@@ -13,7 +13,7 @@ But benefit to this page would be appreciated :)*
 * **Minecraft**: 1.18.2
 * **Forge:** 40.1.73
 
-## 0x256 (Client + Server)
+## 0x256+ (Client + Server)
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
@@ -25,7 +25,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 256
+* Mods Count: 256 (Version 1.2.3) / 303 (Version 1.3.0)
 
 * Shaders: Yes
 
