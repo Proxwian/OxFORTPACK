@@ -13,6 +13,8 @@ But benefit to this page would be appreciated :)*
 * **Minecraft**: 1.18.2
 * **Forge:** 40.1.73
 
+### Download [0xLauncher](https://goo.by/oxlauncher) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
+
 ## 0x256+ (Client + Server)
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
@@ -33,12 +35,52 @@ But benefit to this page would be appreciated :)*
 
 * Server: Available from menu
 
-### Download [0xLauncher](https://goo.by/oxlauncher) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
+[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack)
 
-## 0x128 (Coming soon...)
+
+## 0x128
 
 > Light version of modpack. With no server mods, includes custom mechanics configs, less mod addons and no shaders included.
 
-## 0x64 (Coming soon...)
+### Latest version: 1.0.0
+
+* Difficulty: Medium
+
+* Minimal RAM: 2Gb
+
+* Recommended RAM: 4Gb
+
+* Mods Count: 128
+
+* Shaders: No
+
+* Configs: Inlcuded
+
+* Server: No
+
+
+[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x128)
+
+
+## 0x64
+
+### Latest version: 1.0.0
 
 > Vanilla+ version of modpack, containing only perfomance and client tweaks, new visual elements from higher-tier packs, no shaders (but with new long-distance client rendering using Distant Horizons mod)
+
+* Difficulty: Default
+
+* Minimal RAM: 512mb
+
+* Recommended RAM: 1Gb
+
+* Mods Count: 64
+
+* Shaders: No
+
+* Configs: Custom menu & RPG Overlay
+
+* Server: Any vanilla
+
+
+[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x64)
