@@ -25,7 +25,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 256 (Version 1.2.3) / 303 (Version 1.3.0)
+* Mods Count: 256 (Version 1.2.3) / 325 (Version 1.3.1)
 
 * Shaders: Yes
 
