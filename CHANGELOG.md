@@ -1,3 +1,27 @@
+# 1.3.1
+* Добавлен мод All At Once
+* Добавлен мод All The Compability
+* Добавлен мод All The Compressed
+* Добавлен мод Archers Paradox
+* Добавлен мод Chat Heads
+* Добавлен мод Debugify
+* Добавлен мод Emojiful
+* Добавлен мод illagers Armor
+* Добавлен мод More Minecarts
+* Добавлен мод Nekos Enchanted Books
+* Добавлен мод Obscuria's Tooltips
+* Добавлен мод Observable
+* Добавлен мод Skinned Lanterns
+* Добавлен мод Slimy Stuff
+* Добавлен мод Twilight Delight
+* Добавлен мод Upgraded Netherite
+* Добавлен аддон Upgraded Netherite Items
+* Добавлен аддон Upgraded Netherite Ultimate
+* Добавлен мод Visual Workbench
+* Удалён мод Entity Collision Fps Fix
+* Исправлено перезаписывание настроек JourneyMap
+* Обновлены моды до последних версий
+
 # 1.3.0
 * Добавлен мод Additional Additions
 * Добавлен мод Companion
