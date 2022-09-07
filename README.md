@@ -64,9 +64,9 @@ But benefit to this page would be appreciated :)*
 
 ## 0x64
 
-### Latest version: 1.0.0
-
 > Vanilla+ version of modpack, containing only perfomance and client tweaks, new visual elements from higher-tier packs, no shaders (but with new long-distance client rendering using Distant Horizons mod)
+
+### Latest version: 1.0.0
 
 * Difficulty: Default
 
