@@ -42,7 +42,7 @@ But benefit to this page would be appreciated :)*
 
 > Light version of modpack. With no server mods, includes custom mechanics configs, less mod addons and no shaders included.
 
-### Latest version: 1.0.0
+### Latest version: 1.0.1
 
 * Difficulty: Medium
 
@@ -66,7 +66,7 @@ But benefit to this page would be appreciated :)*
 
 > Vanilla+ version of modpack, containing only perfomance and client tweaks, new visual elements from higher-tier packs, no shaders (but with new long-distance client rendering using Distant Horizons mod)
 
-### Latest version: 1.0.0
+### Latest version: 1.0.1
 
 * Difficulty: Default
 
