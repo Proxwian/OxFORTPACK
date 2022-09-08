@@ -1,3 +1,22 @@
+# 1.3.2
+* Добавлен мод Absent By Design
+* Добавлен мод Additional Bars
+* Добавлен мод Chimes
+* Добавлен мод Chipped
+* Добавлен мод Clear Despawn
+* Добавлен мод Connected Glass
+* Добавлен мод Hud Compass
+* Добавлен мод Moving Elevators
+* Добавлен мод Nyf's Quivers
+* Добавлен мод ShutUpExperimentalSettings
+* Добавлен мод Tumbleweed
+* Добавлен аддон Grimoire OfTetra
+* Добавлен аддон JEI Paintings
+* Исправлен баг с зависанием клиента при первом запуске
+* Исправлен баг с закрытием инвентаря при вводе буквы T/Е в поле поиска JEI
+* Добавлена кнопка онлайн-магазина на сервере
+* Обновлены моды до последних версий
+
 # 1.3.1
 * Добавлен мод All At Once
 * Добавлен мод All The Compability
