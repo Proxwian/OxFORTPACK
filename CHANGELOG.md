@@ -1,3 +1,6 @@
+# 1.3.5 Hotfix
+* Исправлены настройки модификаций
+
 # 1.3.4
 * Добавлен мод WatchDog Anti Cheat
 * Удалён мод BetterDesertTemplates
