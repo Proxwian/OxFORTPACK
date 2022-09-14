@@ -11,7 +11,7 @@ But benefit to this page would be appreciated :)*
 
 #### All clients using these version of core loaders:
 * **Minecraft**: 1.18.2
-* **Forge:** 40.1.73
+* **Forge:** 40.1.80
 
 ### Download [0xLauncher](https://goo.by/oxlauncher) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
 
@@ -19,7 +19,7 @@ But benefit to this page would be appreciated :)*
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
-### Latest version: [1.3.5](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
+### Latest version: [1.3.6](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
 
 * Difficulty: High
 
@@ -27,7 +27,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 256 (Version 1.2.3) / 333 (Version 1.3.5)
+* Mods Count: 256 (Version 1.2.3) / 335 (Version 1.3.6)
 
 * Shaders: Yes
 
