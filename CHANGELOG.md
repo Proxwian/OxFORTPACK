@@ -1,3 +1,15 @@
+# 1.4.0
+* Добавлен мод BadWitherNoCookie
+* Добавлен мод Chalk
+* Добавлен мод Etched
+* Добавлен мод HarcoreTorches
+* Добавлен мод LoginProtection
+* Добавлен мод XtraArrows
+* Добавлен аддон ArsOmega
+* Удалён мод Archer's Paradox
+* Удалён мод COFH's Core
+* Изменены конфигурации клавиш по умолчанию (см. wiki (https://github.com/Proxwian/oxtopackmc/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%B8%D0%B3%D1%80%D1%8B))
+
 # 1.3.6
 * Добавлен мод DrawerFps
 * Добавлен мод Seamless Loader Screen
