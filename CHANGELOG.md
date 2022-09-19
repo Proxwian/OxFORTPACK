@@ -1,3 +1,23 @@
+# 1.4.1
+* Добавлен мод AlmostUnified
+* Добавлен мод Apple Crates
+* Добавлен мод MemoryUsageScreen
+* Добавлен мод NoTreePunching
+* Добавлен мод Saturn
+* Добавлен аддон DropTheRock
+* Добавлен аддон Botania Crates
+* Добавлен аддон MorePeripherials
+* Добавлен аддон IntegratedNBT
+* Добавлен аддон Integrated Dynamics Crates
+* Добавлен аддон Integrated Terminals
+* Добавлен аддон Integrated Tunnels
+* Удалён мод AllTheOres
+* Удалён аддон AllTheCompatibility
+* Удалён аддон AllTheCompressed
+* Удалён аддон AllAtOnce
+* Обновлены моды до последних версий
+* Обновлена конфигурация мода Inventory HUD
+
 # 1.4.0
 * Добавлен мод BadWitherNoCookie
 * Добавлен мод Chalk
