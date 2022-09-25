@@ -1,3 +1,15 @@
+# 1.4.2
+* Переведён мод Alex's Delight
+* Переведён мод Armor Underwear
+* Переведён мод Ars Creo
+* Переведён мод Cursery
+* Переведён мод Hardcore Torches
+* Переведён мод MmmMmmMmmMmm
+* Переведён мод No Tree Punching
+* Переведён мод Nyf's Quivers
+* Переведён мод Paraglider
+* Переведён мод Scaling Health
+
 # 1.4.1
 * Добавлен мод AlmostUnified
 * Добавлен мод Apple Crates
