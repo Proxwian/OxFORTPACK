@@ -1,3 +1,17 @@
+# 1.4.3
+* Обновлены модификации до последних версий
+* Переведён мод Survive*
+* Переведён мод The Bumblezone*
+* Переведён мод The Wild Update*
+* Переведён мод ToolSwap*
+* Переведён мод TwilightDelight*
+* Переведён мод UpgradedNetherite*
+* Переведён мод Valhelsia Structures*
+* Переведён мод XtraArrows*
+* Переведён аддон Ultimerite*
+
+\* За помощь в локализации модификаций большое спасибо Kerogaz <3
+
 # 1.4.2
 * Переведён мод Alex's Delight
 * Переведён мод Armor Underwear
