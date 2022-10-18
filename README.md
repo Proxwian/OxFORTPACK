@@ -19,7 +19,7 @@ But benefit to this page would be appreciated :)*
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
-### Latest version: [1.4.4](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
+### Latest version: [4.4](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
 
 * Difficulty: High
 
@@ -27,7 +27,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 256 (Version 1.2.3) / 350 (Version 1.3+)
+* Mods Count: 256 (Version 1) / 350 (Version 4)
 
 * Shaders: Yes
 
