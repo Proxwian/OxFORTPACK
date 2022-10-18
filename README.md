@@ -27,7 +27,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 256 (Version 1) / 350 (Version 4)
+* Mods Count: 256 (Version 1 && 2) / 350 (Version 4)
 
 * Shaders: Yes
 
