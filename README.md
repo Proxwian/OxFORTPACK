@@ -13,7 +13,7 @@ But benefit to this page would be appreciated :)*
 * **Minecraft**: 1.18.2
 * **Forge:** 40.1.84
 
-### Download [0xLauncher](https://goo.by/oxlauncher) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
+### Download [0xLauncher](https://oxlauncher.ru/) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
 
 ## x256+ (Client + Server)
 
