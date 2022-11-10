@@ -1,3 +1,15 @@
+## 5.0
+* Обновлен Forge до версии 40.1.84
+* Добавлен мод Critters and Companions
+* Добавлен мод DrippyLoadingScreen
+* Добавлен мод End's Phantasm
+* Добавлен мод End Remastered
+* Добавлен мод Repurposed Structures
+* Добавлен мод Simple Voice Chat
+* Добавлен мод SuperNatural
+* Добавлен мод TreeChop
+* Удалено 94 модификации и дополнений
+
 ## 4.5
 * Обновлены модификации до последних версий
 * Исправлены баги модификаций Survive и NoTreePunching
