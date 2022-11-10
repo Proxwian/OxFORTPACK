@@ -1,4 +1,31 @@
-## 5.0
+## 5.1
+* Изменено отображение GUI The One Probe
+* Добавлен мод Advancement Plagues
+* Добавлен мод BetterBlockSounds
+* Добавлен мод Creeper Overhaul
+* Добавлен мод Domestication Innovation
+* Добавлен мод HourGlass
+* Добавлен мод Inventory Essentials
+* Добавлен мод RottenCreatures
+* Добавлен мод Sapience
+* Добавлен мод Spelunker's Charm
+* Добавлен мод Try 2 Survive
+* Добавлен мод WaveyCapes
+* Удалён мод Chicken's Shed
+* Удалён мод Clumps
+* Удалён мод Companion
+* Удалён мод Extended Lights
+* Удалён мод MouseTweaks
+* Удалён мод OverloadedArmorBar
+* Удалён аддон Create: Armored Copper Backtanks
+* Удалён аддон Integrated Rest
+* Добавлен ресурспак Stay True
+* Добавлен ресурспак Stay True Compat
+* Добавлен ресурспак The Wild Lands - GUI
+* Обновлён мод Almost Unified
+
+
+# 5.0
 * Обновлен Forge до версии 40.1.84
 * Добавлен мод Critters and Companions
 * Добавлен мод DrippyLoadingScreen
