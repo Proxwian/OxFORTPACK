@@ -1,3 +1,25 @@
+## 5.2
+* Добавлен мод BetterCombat
+* Добавлен мод Better Advancements
+* Добавлен мод Canary
+* Добавлен мод MoreVillagers
+* Добавлен мод ZombieAwareness
+* Добавлен аддон Tetratic Combat
+* Добавлен аддон Tetra: Enlarged
+* Удалён мод BetterF3
+* Удалён мод EnderStorage
+* Удалён мод Essentials
+* Удалён мод GetItTogetherDrops
+* Удалён мод Industrial Foregoing
+* Удалён мод SwingThroughGrass
+* Удалён мод StorageDrawers
+* Удалён мод Radium Reforged
+* Удалён аддон DrawerFps
+* Удалён аддон FramedCompactingDrawers
+* Удалён аддон Mekanism Tools
+* Обновлены модификации до последних версий
+* Исправлены ресурспаки по умолчанию
+
 ## 5.1
 * Изменено отображение GUI The One Probe
 * Добавлен мод Advancement Plagues
