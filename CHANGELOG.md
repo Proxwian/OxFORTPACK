@@ -3,6 +3,7 @@
 * Добавлен мод Better Advancements
 * Добавлен мод Canary
 * Добавлен мод MoreVillagers
+* Добавлен мод SereneSeasons
 * Добавлен мод ZombieAwareness
 * Добавлен аддон Tetratic Combat
 * Добавлен аддон Tetra: Enlarged
@@ -45,7 +46,6 @@
 * Добавлен ресурспак Stay True Compat
 * Добавлен ресурспак The Wild Lands - GUI
 * Обновлён мод Almost Unified
-
 
 # 5.0
 * Обновлен Forge до версии 40.1.84
