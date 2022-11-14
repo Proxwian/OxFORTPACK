@@ -1,3 +1,10 @@
+## 5.3
+* Исправлен вылет с модом FancyMenu
+* Исправлен вылет с модом TetraticCombat
+* Добавлен мод Miner's Lung
+* Удалён мод Xtra Arrows
+* Обновлены модификации до последних версий
+
 ## 5.2
 * Добавлен мод BetterCombat
 * Добавлен мод Better Advancements
