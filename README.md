@@ -1,7 +1,6 @@
-# Oxfort Pack
+# OxFORTPACK
 
-
-> **OxfortPack** is Minecraft mod pack primarily oriented on dynamic difficulty - hardcore gaming using new mechanincs with as many mods as possible to enchance EVERY possible ability of game. Contains magic and technology mods, new terrain generation, custom optimised configs for better game experience, optimized settings for low-end to high-end computers, etc.
+> **OxFORTPACK** is Minecraft mod pack primarily oriented on dynamic difficulty - hardcore gaming using new mechanincs with as many mods as possible to enchance EVERY possible ability of game. Contains magic and technology mods, new terrain generation, custom optimised configs for better game experience, optimized settings for low-end to high-end computers, etc.
 
 > Currently modpack has three client versions: x256, x128, x64 (naming based on mods count in pack), and one server version for 0x256 pack.
 
@@ -19,7 +18,7 @@ But benefit to this page would be appreciated :)*
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
-### Latest version: [5.4](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
+### Latest version: [5.5](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
 
 * Difficulty: Hardcore
 
