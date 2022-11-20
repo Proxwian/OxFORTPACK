@@ -39,9 +39,9 @@ But benefit to this page would be appreciated :)*
 
 ## x128
 
-> Light version of modpack. With no server mods, includes custom mechanics configs, less mod addons and no shaders included.
+> Light version of modpack. With no server mods, includes custom mechanics configs, less mod addons and no shaders included (but with new long-distance client rendering using Distant Horizons mod).
 
-### Latest version: 1.0.1
+### Latest version: 5.0
 
 * Difficulty: Hard
 
@@ -63,15 +63,15 @@ But benefit to this page would be appreciated :)*
 
 ## x64
 
-> Vanilla+ version of modpack, containing only perfomance and client tweaks, new visual elements from higher-tier packs, no shaders (but with new long-distance client rendering using Distant Horizons mod)
+> Vanilla+ version of modpack, containing only perfomance and gameplay changes, configs from higher-tier packs, no shaders, no Distant Horizons. Can be run on your potato!
 
-### Latest version: 1.0.1
+### Latest version: 5.0
 
-* Difficulty: Hard
+* Difficulty: Medium
 
-* Minimal RAM: 512mb
+* Minimal RAM: 1Gb
 
-* Recommended RAM: 1Gb
+* Recommended RAM: 2Gb
 
 * Mods Count: 64
 
@@ -79,7 +79,7 @@ But benefit to this page would be appreciated :)*
 
 * Configs: Custom menu & RPG Overlay
 
-* Server: Any vanilla
+* Server: No
 
 
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x64)
