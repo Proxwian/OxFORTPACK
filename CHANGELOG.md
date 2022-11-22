@@ -1,3 +1,15 @@
+## 5.6
+* Добавлен мод AntiqueAtlas
+* Добавлен мод CreaturesAndBeasts
+* Добавлен мод ToughAsNails
+* Добавлен мод Mowzie's Mobs
+* Добавлен мод Paragliders
+* Добавлен мод Regrowth
+* Удалён мод AmbientEnvironment
+* Удалён мод Mobifier
+* Удалён мод Survive
+* Удалён мод UnionLib
+
 ## 5.5
 * Добавлен аддон TetraNetFix
 * Добавлен мод Get It Together Drops
