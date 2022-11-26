@@ -17,3 +17,5 @@ gamerule foodDepletingValue 0
 gamerule hungerDuration 10
 
 gamerule tremorGriefing true
+
+gamerule necrosisApplyingChance false
