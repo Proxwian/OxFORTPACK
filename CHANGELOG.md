@@ -1,3 +1,13 @@
+## 5.10
+* Добавлен мод ShoulderSurfingReloaded
+* Удалён мод Configured
+* Переведён мод AdvancedChimneys
+* Переведён мод Ends phantasm
+* Переведён мод HudCompass
+* Переведён мод Immersive weathering
+* Обновлён мод PlayerAnimator
+* Изменены назначения клавиш для мода HudCompass
+
 ## 5.9
 * Убрана анимация подсказок в меню паузы
 * Исправлено отображение кнопок в меню паузы
