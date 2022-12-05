@@ -18,4 +18,4 @@ gamerule hungerDuration 10
 
 gamerule tremorGriefing true
 
-gamerule necrosisApplyingChance 10
+gamerule necrosisApplyingChance 5
