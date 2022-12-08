@@ -6,8 +6,6 @@ gamerule spidersApplyNecrosis false
 
 gamerule burningAirOfHell false
 
-gamerule applyRabies false
-
 gamerule applyScorch false
 
 gamerule applyStarvation false
