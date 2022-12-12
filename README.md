@@ -14,6 +14,10 @@ But benefit to this page would be appreciated :)*
 
 ### Download [OxLAUNCHER](https://oxlauncher.ru/) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
 
+<a href="https://discord.gg/Yy4y7tjKfY">
+<img src="https://user-images.githubusercontent.com/31781674/207122521-e835a0eb-f52d-4f6a-8d16-0ea6b32e3c0d.png" width="250" href="https://discord.gg/Yy4y7tjKfY">
+</a>
+
 ## x256+ (Client + Server)
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
