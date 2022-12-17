@@ -17,3 +17,5 @@ gamerule hungerDuration 10
 gamerule tremorGriefing true
 
 gamerule necrosisApplyingChance 5
+
+gamerule parasitesChance 5
