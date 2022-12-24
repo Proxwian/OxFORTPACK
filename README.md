@@ -10,7 +10,7 @@ But benefit to this page would be appreciated :)*
 
 #### All clients using these version of core loaders:
 * **Minecraft**: 1.18.2
-* **Forge:** 40.1.85
+* **Forge:** 40.1.92
 
 ### Download [OxLAUNCHER](https://oxlauncher.ru/) to start (also available for download in [CurseForge client](https://download.curseforge.com/))
 
