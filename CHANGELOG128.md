@@ -1,16 +1,17 @@
 ## 5.15
-* Добавлен мод Enlightened End
 * Добавлен мод The Wild Backport
-* Удалён мод End's Phantasm
 * Удалён мод The Wild Update
 * Исправлены конфиги для одиночной игры
 * Убрана загрузка сторонних модификаций для OxLAUNCHER
 
 ## 5.14
 
-* Добавлен мод Antique Atlas
-* Добавлен мод Cold Sweat
-* Добавлен мод Tough As Nails
+* Добавлен мод AntiqueAtlas
+* Добавлен мод ColdSweat
+* Добавлен мод Create
+* Добавлен мод KubeJS
+* Добавлен мод ToughAsNails
+* Удалён мод Chipped
 * Удалён мод Journey's Map
 * Удалён мод Survive
 * Добавлен пак с переводами
