@@ -4,7 +4,7 @@ gamerule minersPoisoning false
 
 gamerule spidersApplyNecrosis false
 
-gamerule burningAirOfHell false
+gamerule burningAirOfHell true
 
 gamerule applyScorch false
 
