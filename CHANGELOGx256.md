@@ -1,3 +1,26 @@
+## 6.4
+* Добавлен мод AutoThirdPerson
+* Добавлен мод CombatRoll
+* Добавлен мод DamageTilt
+* Добавлен мод DualRiders
+* Добавлен мод FirstPersonModel
+* Добавлен мод LayeredSnowfall
+* Добавлен мод MerchantMarkers
+* Добавлен мод PresenceFootsteps
+* Добавлен мод ShoulderSurfingReloaded
+* Добавлен аддон ImmersivePetroleum
+* Удалён мод Antique Atlas
+* Удалён мод BetterThirdPerson
+* Удалён мод DoubleSlabs
+* Добавлены переводы для 11 модификаций
+* Исправлено получение профессий для NPC
+* Исправлено ломание Маяка
+* Исправлено удушение Брутальных Пиглинов в Незере
+* Включены все книги, скрипты и планшеты мода Corail Tombstone
+* Обновлены скрипты KubeJS
+* Обновлены назначения клавиш по умолчанию
+* 9 модификаций обновлены до актуальных версий
+
 ## 6.3
 * Исправлен вылет с модом Malum
 * Исправлен вылет с модом IntegratedDungeonsAndStructures
