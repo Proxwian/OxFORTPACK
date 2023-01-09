@@ -18,11 +18,11 @@ But benefit to this page would be appreciated :)*
 <img src="https://user-images.githubusercontent.com/31781674/207122521-e835a0eb-f52d-4f6a-8d16-0ea6b32e3c0d.png" width="250" href="https://discord.gg/Yy4y7tjKfY">
 </a>
 
-## x256+ (Client + Server)
+## x256 (Client + Server)
 
 > Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
-### Latest version: [6.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
+### Latest version: [6.4](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
 
 * Difficulty: Hardcore
 
@@ -30,7 +30,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 256
+* Mods Count: 265
 
 * Shaders: Yes
 
