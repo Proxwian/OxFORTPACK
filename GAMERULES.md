@@ -19,3 +19,5 @@ gamerule tremorGriefing true
 gamerule necrosisApplyingChance 5
 
 gamerule parasitesChance 5
+
+gamerule reducedDebugInfo true
