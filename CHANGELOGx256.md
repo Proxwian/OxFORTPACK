@@ -1,3 +1,6 @@
+## 6.8
+* Откат к предыдущей версии WAC AntiCheat
+
 ## 6.7
 * Добавлен мод ItemPhysics Full
 * Добавлен мод MouseTweaks
