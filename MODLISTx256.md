@@ -1,7 +1,7 @@
 *   [Absent by Design (by Lothrazar)](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)
 *   [Additional Additions | Forge (by dqu1jjj)](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
 *   [Advanced Chimneys (by EnderLanky)](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
-*   [Advancement Plaques \[Forge\] (by Grend\_G)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
+*   [Advancement Plaques \[Forge\] (by Grend\)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 *   [AI Improvements (by QueenOfMissiles)](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 *   [Alcocraft: Beer & Stuff (by hadrus91)](https://www.curseforge.com/minecraft/mc-mods/alcocraft-beer-and-stuff)
 *   [Alex's Delight (by NCP\_Bails)](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
