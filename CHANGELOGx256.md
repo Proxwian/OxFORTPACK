@@ -1,3 +1,14 @@
+## 6.7
+* Добавлен мод ItemPhysics Full
+* Добавлен мод MouseTweaks
+* Удалён мод Inventory Essentials
+* Исправлено отображение мультиблочных конструкций в рук-ве инженера
+* Исправлена работа тотемов из мода Malum
+* Обновлён мод Create
+* Обновлён мод Malum
+* Обновлён мод Immersive Engineering
+* Обновлены 9 модификаций
+
 ## 6.6
 * Добавлен мод Dynamic Crosshair
 * Добавлен мод SleepForSpawnpoint
