@@ -1,3 +1,12 @@
+## 6.9
+* Удалён мод Item Physics
+* Откат к предыдущей версии Spelunker's Charm
+* Исправлен вылет сервера
+* Обновлён мод CraftTweaker
+* Обновлён мод FTBChunks
+* Обновлён мод FTBRanks
+* Обновлены шейдеры Complementary
+
 ## 6.8
 * Откат к предыдущей версии WAC AntiCheat
 
