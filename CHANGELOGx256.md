@@ -1,3 +1,17 @@
+## 7.1
+* Добавлен мод BetterAdvancements
+* Добавлен мод ClickableAdvancements
+* Добавлен мод ConnectibleChains
+* Добавлен мод InvMove
+* Добавлен аддон Create: Steam 'n Rails
+* Добавлен ресурспак EnhancedBossBars
+* Переведён мод BornInChaos
+* Переведён мод TheUndergarden
+* Переведён аддон UndergardenTetraPatch
+* Обновлены настройки мода CameraOverhaul
+* Изменены рецепты мода Eureka! Airships! и TheUndergarden
+* Обновлены 8 модификаций
+
 # 7.0 (Undergarden Sailors Update)
 * Новое измерение: Подземные Сады!
 * Поддержка кораблей и дирижаблей из блоков!
