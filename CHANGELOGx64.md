@@ -1,3 +1,20 @@
+# 6.13
+* Адаптированы квесты из старших версий сборок
+* Обновлены переводы модификаций
+* Добавлен мод Comforts
+* Добавлен мод CullLessLeaves
+* Добавлен мод FTB Quests
+* Добавлен мод GlobalPacks
+* Добавлен мод ModernFix
+* Добавлен мод LazyDFU
+* Добавлен мод Lightspeed
+* Добавлен мод MouseTweaks
+* Добавлен мод SleepForSpawnpoint
+* Удалён мод Canary
+* Удалён мод InventoryEssentials
+* Удалён мод SmoothBoot
+* Forge обновлён до версии 40.2.2
+
 ## 5.15
 * Добавлен мод Enlightened End
 * Добавлен мод The Wild Backport
