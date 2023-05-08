@@ -30,7 +30,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 6Gb
 
-* Mods Count: 265
+* Mods Count: 286
 
 * Shaders: Yes
 
@@ -45,7 +45,7 @@ But benefit to this page would be appreciated :)*
 
 > Light version of modpack. With no server mods, includes custom mechanics configs, less mod addons and no shaders included (but with new long-distance client rendering using Distant Horizons mod).
 
-### Latest version: [5.15](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx128.md)
+### Latest version: [6.13](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx128.md)
 
 * Difficulty: Hard
 
@@ -53,7 +53,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 4Gb
 
-* Mods Count: 128
+* Mods Count: 148
 
 * Shaders: No
 
