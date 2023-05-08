@@ -28,7 +28,7 @@ But benefit to this page would be appreciated :)*
 
 * Minimal RAM: 4Gb
 
-* Recommended RAM: 6Gb
+* Recommended RAM: 8Gb
 
 * Mods Count: 286
 
@@ -49,9 +49,9 @@ But benefit to this page would be appreciated :)*
 
 * Difficulty: Hard
 
-* Minimal RAM: 2Gb
+* Minimal RAM: 3Gb
 
-* Recommended RAM: 4Gb
+* Recommended RAM: 6Gb
 
 * Mods Count: 148
 
@@ -73,11 +73,11 @@ But benefit to this page would be appreciated :)*
 
 * Difficulty: Medium
 
-* Minimal RAM: 1Gb
+* Minimal RAM: 2Gb
 
-* Recommended RAM: 2Gb
+* Recommended RAM: 4Gb
 
-* Mods Count: 64
+* Mods Count: 73
 
 * Shaders: No
 
