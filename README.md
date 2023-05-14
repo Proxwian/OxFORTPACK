@@ -69,7 +69,7 @@ But benefit to this page would be appreciated :)*
 
 > Vanilla+ version of modpack, containing only perfomance and gameplay changes, configs from higher-tier packs, no shaders, no Distant Horizons. Can be run on your potato!
 
-### Latest version: [5.15](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx64.md)
+### Latest version: [6.13](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx64.md)
 
 * Difficulty: Medium
 
