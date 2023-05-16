@@ -1,8 +1,8 @@
 # OxFORTPACK
 
-> **OxFORTPACK** is Minecraft mod pack primarily oriented on dynamic difficulty - hardcore gaming using new mechanics with as many mods as possible to enchance EVERY possible ability of game. Contains magic and technology mods, new terrain generation, custom optimised configs for better game experience, optimized settings for low-end to high-end computers, etc.
+> **OxFORTPACK** is Minecraft mod pack primarily oriented on dynamic difficulty - hardcore gaming using new mechanics with as many mods as possible to enchance EVERY possible ability of game. Contains magic and technology mods, new terrain generation, custom optimised configs for better game experience, optimized settings for low-end to high-end computers, etc. And also quests!
 
-> Currently modpack has three client versions: x512, x256 (main), x128, x64 (naming based on mods count in pack), and one server version for 0x256 pack.
+> Currently modpack has three client versions: x512, x256 (main), x128, x64 (naming based on mods count in pack), and one server version for x256 pack.
 
 *Pack distibuted as-is with no copyright claims for using client/server files or modifying pack 
 for your own purposes. 
