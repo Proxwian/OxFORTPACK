@@ -2,7 +2,7 @@
 
 > **OxFORTPACK** is Minecraft mod pack primarily oriented on dynamic difficulty - hardcore gaming using new mechanics with as many mods as possible to enchance EVERY possible ability of game. Contains magic and technology mods, new terrain generation, custom optimised configs for better game experience, optimized settings for low-end to high-end computers, etc.
 
-> Currently modpack has three client versions: x256, x128, x64 (naming based on mods count in pack), and one server version for 0x256 pack.
+> Currently modpack has three client versions: x512, x256 (main), x128, x64 (naming based on mods count in pack), and one server version for 0x256 pack.
 
 *Pack distibuted as-is with no copyright claims for using client/server files or modifying pack 
 for your own purposes. 
@@ -18,9 +18,32 @@ But benefit to this page would be appreciated :)*
 <img src="https://user-images.githubusercontent.com/31781674/207122521-e835a0eb-f52d-4f6a-8d16-0ea6b32e3c0d.png" width="250" href="https://discord.gg/Yy4y7tjKfY">
 </a>
 
+## x512 (Currently in Alpha)
+
+### Latest version: [0.1](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
+
+> No-way-please-god-no version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or server code.
+
+* Difficulty: Hardcore+
+
+* Minimal RAM: 6Gb
+
+* Recommended RAM: 10Gb
+
+* Mods Count: 512
+
+* Shaders: Yes
+
+* Configs: Recommended included
+
+* Server: Oh gosh no
+
+[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x512)
+
+
 ## x256 (Client + Server)
 
-> Ultimate modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
+> Main modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
 ### Latest version: [7.1](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
 
