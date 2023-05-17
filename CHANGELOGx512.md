@@ -1,3 +1,27 @@
+## 0.2
+
+* Добавлен мод Awesome Dungeons
+* Добавлен мод Curious Lanterns
+* Добавлен мод Just Enough Effect Descriptions
+* Добавлен мод PotionsMaster
+* Добавлен мод Relics
+* Добавлен мод Sprout
+* Добавлен мод THE UNDEAD REVAMPED
+* Удалён мод AdditionalLanterns
+* Удалён мод BetterAzalea
+* Удалён мод BetterF3
+* Удалён мод BiomeParticleWeather
+* Удалён мод EnchantmentDescriptions
+* Удалён мод ReBlured
+* Удалён мод Tan's HugeTrees
+* Исправлены микро-фризы в одиночном мире
+* Улучшена общая производительность сборки
+* Исправлен вылет при создании мира
+* Обновлён экран загрузки
+* Исправлено отображение дополнительных кнопок в меню паузы и настроек
+* Обновлены сплэши
+* Обновлено 6 модификаций
+
 # 0.1
 
 * За основу была взята сборка OxFORTPACK x256 v.7.1
