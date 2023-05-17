@@ -20,7 +20,7 @@ But benefit to this page would be appreciated :)*
 
 ## x512 (Currently in Alpha)
 
-### Latest version: [0.1](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
+### Latest version: [0.2](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
 
 > No-way-please-god-no-version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or server code.
 
