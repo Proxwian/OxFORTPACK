@@ -4,7 +4,7 @@
 
 > Currently modpack has three client versions: x512, x256 (main), x128, x64 (naming based on mods count in pack), and one server version for x256 pack.
 
-![OxFORTPACK Quest Architecture](https://github.com/Proxwian/OxFORTPACK/assets/31781674/523cb67a-522d-4602-b7d2-0a4e0fa72919)
+![OxFORTPACK Modpack Architecture](https://github.com/Proxwian/OxFORTPACK/assets/31781674/7e4b7088-f877-410f-b5fd-8cfe3f8e891f)
 
 *Pack distibuted as-is with no copyright claims for using client/server files or modifying pack 
 for your own purposes. 
