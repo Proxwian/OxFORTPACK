@@ -40,6 +40,8 @@ But benefit to this page would be appreciated :)*
 
 * Server: Oh gosh no
 
+* World Generation: Biomes O'Plenty + Oh The Biomes You'll Go + Continents
+
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x512)
 
 
@@ -62,6 +64,8 @@ But benefit to this page would be appreciated :)*
 * Configs: Recommended included
 
 * Server: Available from menu
+
+* World Generation: Oh The Biomes You'll Go + Continents
 
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack)
 
@@ -86,6 +90,8 @@ But benefit to this page would be appreciated :)*
 
 * Server: No
 
+* World Generation: Terralith
+
 
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x128)
 
@@ -109,6 +115,8 @@ But benefit to this page would be appreciated :)*
 * Configs: Included
 
 * Server: No
+
+* World Generation: Terralith
 
 
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x64)
