@@ -24,7 +24,7 @@ But benefit to this page would be appreciated :)*
 
 ### Latest version: [0.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
 
-> No-way-please-god-no-version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or server code.
+> No-way-please-god-no-version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or ugly server code.
 
 * Difficulty: Hardcore+
 
