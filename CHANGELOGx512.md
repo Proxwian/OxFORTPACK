@@ -5,12 +5,12 @@
 * Добавлен мод CuriousArmorStands
 * Добавлен мод ElytraSlot
 * Добавлен мод Trofers
-* Изменена иконка и заголовок окна клиента
 * Удалён мод Geode O'Plenty
 * Удалён мод KleeSlabs
 * Удалён мод MoreMinecarts
 * Удалён мод RestrictedPortals
 * Удалён мод Trashslot
+* Изменена иконка и заголовок окна клиента
 * Исправлены советы в меню
 * Обновлено главное меню
 * Обновлены настройки DynamicLights
