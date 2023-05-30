@@ -20,4 +20,6 @@ gamerule necrosisApplyingChance 5
 
 gamerule parasitesChance 5
 
+gamerule drainFoodAfterSleeping false
+
 gamerule reducedDebugInfo true
