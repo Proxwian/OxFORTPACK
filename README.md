@@ -22,7 +22,7 @@ But benefit to this page would be appreciated :)*
 <img src="https://user-images.githubusercontent.com/31781674/207122521-e835a0eb-f52d-4f6a-8d16-0ea6b32e3c0d.png" width="250" href="https://discord.gg/Yy4y7tjKfY">
 </a>
 
-## x512 (Currently in Alpha)
+## XL (Currently in Alpha)
 
 ### Latest version: [0.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
 
@@ -47,7 +47,7 @@ But benefit to this page would be appreciated :)*
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x512)
 
 
-## x256 (Client + Server)
+## OxFORTPACK 7 (Client + Server)
 
 > Main modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
@@ -72,7 +72,7 @@ But benefit to this page would be appreciated :)*
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack)
 
 
-## x128
+## OxFORTPACK M
 
 > Light version of modpack. With no server mods, includes custom mechanics configs, less mod addons and no shaders included (but with new long-distance client rendering using Distant Horizons mod).
 
@@ -98,7 +98,7 @@ But benefit to this page would be appreciated :)*
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x128)
 
 
-## x64
+## OxFORTPACK S
 
 > Vanilla+ version of modpack, containing only perfomance and gameplay changes, configs from higher-tier packs, no shaders, no Distant Horizons. Can be run on your potato!
 
