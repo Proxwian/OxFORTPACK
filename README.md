@@ -22,31 +22,6 @@ But benefit to this page would be appreciated :)*
 <img src="https://user-images.githubusercontent.com/31781674/207122521-e835a0eb-f52d-4f6a-8d16-0ea6b32e3c0d.png" width="250" href="https://discord.gg/Yy4y7tjKfY">
 </a>
 
-## XL (Currently in Alpha)
-
-### Latest version: [0.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
-
-> No-way-please-god-no-version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or ugly server code.
-
-* Difficulty: Hardcore+
-
-* Minimal RAM: 6Gb
-
-* Recommended RAM: 10Gb
-
-* Mods Count: 513
-
-* Shaders: Yes
-
-* Configs: Recommended included
-
-* Server: Oh gosh no
-
-* World Generation: Biomes O'Plenty + Oh The Biomes You'll Go + Continents
-
-[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x512)
-
-
 ## OxFORTPACK 7 (Client + Server)
 
 > Main modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
@@ -70,6 +45,30 @@ But benefit to this page would be appreciated :)*
 * World Generation: Oh The Biomes You'll Go + Continents
 
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack)
+
+## XL (Currently in Alpha)
+
+### Latest version: [0.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
+
+> No-way-please-god-no-version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or ugly server code.
+
+* Difficulty: Hardcore+
+
+* Minimal RAM: 6Gb
+
+* Recommended RAM: 10Gb
+
+* Mods Count: 513
+
+* Shaders: Yes
+
+* Configs: Recommended included
+
+* Server: Oh gosh no
+
+* World Generation: Biomes O'Plenty + Oh The Biomes You'll Go + Continents
+
+[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-xl)
 
 
 ## OxFORTPACK M
@@ -95,7 +94,7 @@ But benefit to this page would be appreciated :)*
 * World Generation: Terralith
 
 
-[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x128)
+[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-m)
 
 
 ## OxFORTPACK S
@@ -121,4 +120,4 @@ But benefit to this page would be appreciated :)*
 * World Generation: Terralith
 
 
-[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-x64)
+[CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack-s)
