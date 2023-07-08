@@ -1,14 +1,15 @@
 # 6.14
 * Добавлен мод CraftPresence
 * Добавлен мод Diet
-* Добавлен мод HardcoreTorches
-* Добавлен мод PassableFoliage
+* Добавлен мод EverlastingSkins
 * Добавлен мод PassthroughSigns
 * Добавлен мод Raised
-* Добавлен мод Debugify
+* Добавлен аддон Tetranomicon
 * Удалён мод GlobalPacks
 * Удалён мод Lodestone
-* Обновлён create
+* Удалён аддон TetraPak
+* Удалён аддон GrimoireOfTetra
+* Обновлён Create
 * Обновлены квесты
 * Исправлено ломание блоков
 * Исправлен перевод
