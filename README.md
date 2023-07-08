@@ -26,7 +26,7 @@ But benefit to this page would be appreciated :)*
 
 > Main modpack version with all the mods, online server, included hardcore mechanics configs and recent updates. Shaders included!
 
-### Latest version: [7.5](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG.md)
+### Latest version: [7.5](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG-7.md)
 
 * Difficulty: Hardcore
 
@@ -48,7 +48,7 @@ But benefit to this page would be appreciated :)*
 
 ## XL (Currently in Alpha)
 
-### Latest version: [0.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx512.md)
+### Latest version: [0.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG-XL.md)
 
 > No-way-please-god-no-version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or ugly server code.
 
@@ -75,7 +75,7 @@ But benefit to this page would be appreciated :)*
 
 > Light version of modpack. With no server mods, includes custom mechanics configs, less mod addons and no shaders included (but with new long-distance client rendering using Distant Horizons mod).
 
-### Latest version: [6.14](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx128.md)
+### Latest version: [6.14](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG-M.md)
 
 * Difficulty: Hard
 
@@ -101,7 +101,7 @@ But benefit to this page would be appreciated :)*
 
 > Vanilla+ version of modpack, containing only perfomance and gameplay changes, configs from higher-tier packs, no shaders, no Distant Horizons. Can be run on your potato!
 
-### Latest version: [6.14](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOGx64.md)
+### Latest version: [6.14](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG-S.md)
 
 * Difficulty: Medium
 
