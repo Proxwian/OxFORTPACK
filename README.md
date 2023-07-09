@@ -46,9 +46,9 @@ But benefit to this page would be appreciated :)*
 
 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/oxfortpack)
 
-## XL (Currently in Alpha)
+## XL (Beta)
 
-### Latest version: [0.3](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG-XL.md)
+### Latest version: [0.4](https://github.com/Proxwian/oxtopackmc/blob/main/CHANGELOG-XL.md)
 
 > No-way-please-god-no-version of modpack with doubled mods size and increased memory requirements. Theres no server ever available, but it has mods, thats cool, but will be never in main pack due its requirements or ugly server code.
 
@@ -58,7 +58,7 @@ But benefit to this page would be appreciated :)*
 
 * Recommended RAM: 10Gb
 
-* Mods Count: 513
+* Mods Count: 575
 
 * Shaders: Yes
 
