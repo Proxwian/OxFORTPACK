@@ -16,9 +16,9 @@ gamerule hungerDuration 10
 
 gamerule tremorGriefing true
 
-gamerule necrosisApplyingChance 5
+gamerule necrosisApplyingChance 1
 
-gamerule parasitesChance 5
+gamerule parasitesChance 1
 
 gamerule drainFoodAfterSleeping false
 
