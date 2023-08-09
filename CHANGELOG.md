@@ -1,3 +1,34 @@
+# 8.0 (Mystery Magic Update)
+* Create обновлён до версии 0.5.1
+* Malum обновлен до версии 1.5
+* Добавлен мод Autumnity
+* Добавлен мод Atmospheric
+* Добавлен мод IceAndFire
+* Добавлен мод ItemPhysicsLite
+* Добавлен мод Iron's Spells And Books
+* Добавлен мод LAN PlugNPlay
+* Добавлен мод MahouTsukai
+* Добавлен мод Neapolitan
+* Добавлен мод Passthrough Signs
+* Добавлен мод Relics
+* Добавлен мод SuperFancyClouds
+* Добавлен мод TableTopCraft
+* Добавлены модификации из серии ProjectRed
+* Добавлен аддон ArsOmega
+* Добавлен аддон Create Enchantment Industry
+* Добавлен аддон Abnormal's Delight
+* Добавлен аддон Pineapple's Delight
+* Удалён мод BotanicalMachinery
+* Удалён мод LittleContraptions
+* Удалён мод RedstonePen
+* Удалён мод TetraPak
+* Добавлены 4 магические ауры, генерирующиеся при работе магических механизмов и заклинаний и применяющие особые эффекты к живым существам при высокой концентрации (аналог выбросов из обычных механизмов)
+* Переведены новые модификации
+* Дополнены стартовые квесты
+* Добавлена интерактивная карта квестовой системы
+* Обновлены 43 модификации
+
+
 ## 7.5
 * Добавлена поддержка ножей для верстака Tetra
 * Удалён мод AlwaysEat
