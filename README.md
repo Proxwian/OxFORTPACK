@@ -19,7 +19,7 @@ But benefit to this page would be appreciated :)*
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2MBPL6)
 
 <a href="https://discord.com/invite/G4wjUF32Sg">
-<img src="https://user-images.githubusercontent.com/31781674/207122521-e835a0eb-f52d-4f6a-8d16-0ea6b32e3c0d.png" width="250" href="https://discord.gg/Yy4y7tjKfY">
+<img src="https://user-images.githubusercontent.com/31781674/207122521-e835a0eb-f52d-4f6a-8d16-0ea6b32e3c0d.png" width="250" href="https://discord.gg/G4wjUF32Sg">
 </a>
 
 ## OxFORTPACK 7 (Client + Server)
