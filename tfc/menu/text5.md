@@ -1,4 +1,4 @@
-### Сбор средств на разработку первого DLC Dragon's Dogma
+### Сбор средств на DLC Dragon's Dogma
 
 [Посмотреть пост](https://boosty.to/oxfortpack/posts/5a17627e-ec92-4abd-ae15-c61e5ea46c38)
 
